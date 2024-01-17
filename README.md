@@ -41,5 +41,3 @@ Hey There! I'm Ben, a 24-year-old career changing who has hung up their corporat
 - 🌐 [GitHub](https://github.com/Walks99) 
 - 📲 [LinkedIn](https://www.linkedin.com/in/ben-walker-8945662a3/)  
 - 🕺 [Personal Website] Comming soon
-
-À bientôt and happy coding! 🚀
