@@ -34,6 +34,7 @@ Hey There! I'm Ben, a 24-year-old career changing who has hung up their corporat
 - 🔄 **DevOps:** CI/CD, Docker
 - ☁️ **Cloud:** Microsoft Azure
 - 🕒 **Version Control:** Git
+- 🏗️ **IDE** Visual Studio Code
 - 🧠 **Mindsets:** Remaing Agile, open minded and eager to learn
 
 ### Connect with Me
