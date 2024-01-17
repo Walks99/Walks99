@@ -1,18 +1,18 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hey There! I'm Ben, a 24-year-old career changing who has hung up their corporate shoes in search of a new challenge. After five years in sales, it was time to shake things up. With the pursuasion of a close friend to peak my head into the world of software development, my interest was captivated. So here I am, enthusiastic and eager to continue to grow as a Full Stack Web Developer.
+Hey There! I'm Ben, a 24-year-old career changer who has hung up their corporate shoes in search of a new challenge. After five years in sales, it was time to shake things up. With the persuasion of a close friend to peak my head into the world of software development, my interest was captivated. So here I am, enthusiastic and eager to continue to grow as a Full Stack Web Developer.
 
 ### About Me
 
 - 👨🏻‍💻 **From corporate to code - Career changer**
 - 🇳🇿 **New Zealand born and raised**
-- 🥾**Avid hiker with a love for the outdoors**
+- 🥾 **Avid hiker with a love for the outdoors**
 - 📖 **Currently mastering Full Stack Development at Mission Ready HQ**
 
 ### My Path
 
 - 👔 **Five years of corporate sales**
-- 💡 **A realisation to pursue meaningful work**
+- 💡 **A realization to pursue meaningful work**
 - 💻 **Discovering tech and Full Stack Web Development**
 - 🚌 **Going back to school and embarking on a new journey**
 - 🎓 **Level 4:** Certificate in Technology Product Development Essentials (NZQA accredited)
@@ -34,11 +34,11 @@ Hey There! I'm Ben, a 24-year-old career changing who has hung up their corporat
 - 🔄 **DevOps:** CI/CD, Docker
 - ☁️ **Cloud:** Microsoft Azure
 - 🕒 **Version Control:** Git
-- 🏗️ **IDE** Visual Studio Code
-- 🧠 **Mindsets:** Remaing Agile, open minded and eager to learn
+- 🏗️ **IDE:** Visual Studio Code
+- 🧠 **Mindsets:** Remaining Agile, open-minded, and eager to learn
 
 ### Connect with Me
 
 - 🌐 [GitHub](https://github.com/Walks99) 
 - 📲 [LinkedIn](https://www.linkedin.com/in/ben-walker-8945662a3/)  
-- 🕺 [Personal Website] Comming soon
+- 🕺 [Personal Website] Coming soon
