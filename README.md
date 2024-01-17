@@ -1,6 +1,8 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hey There! I'm Ben, a 24-year-old career changer who has hung up their corporate shoes in search of a new challenge. After five years in sales, it was time to shake things up. With the persuasion of a close friend to peak my head into the world of software development, my interest was captivated. So here I am, enthusiastic and eager to continue to grow as a Full Stack Web Developer.
+Hey there! I'm Ben, a 24-year-old career changer who has hung up his corporate shoes in search of a new challenge. After five years in sales, it was time to shake things up. Taking some time to work as a gardener and recalibrating my goals, I was persuaded by a close friend to dip my toes into the world of software development, which captivated my interest. So here I am, enthusiastic and eager to continue growing as a Full Stack Web Developer.
+
+Starting in February 2023, I'll be undertaking a three-month internship at Datacom with several other classmates from Mission Ready HQ. We'll be tasked with developing mobile applications for internal use.
 
 ### About Me
 
