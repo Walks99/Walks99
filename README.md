@@ -44,4 +44,4 @@ Starting in February 2024, I have undertaken a three-month internship at Datacom
 
 - 🌐 [GitHub](https://github.com/Walks99) 
 - 📲 [LinkedIn](https://www.linkedin.com/in/ben-walker-8945662a3/)  
-- 🕺 [Personal Website] Coming soon
+- 🕺 [Personal Website](https://walks99.github.io/ben-walker/)
